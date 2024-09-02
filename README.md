@@ -1,7 +1,3 @@
-Here's a draft for the `README.md` file for your GitHub repository:
-
----
-
 # Online Judging Platform
 
 ## Overview
@@ -90,6 +86,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or issues, feel free to open an issue on GitHub or contact the repository owner directly.
 
----
-
-This `README.md` provides a comprehensive overview of your project, helping users and developers understand and contribute to the Online Judging Platform.
